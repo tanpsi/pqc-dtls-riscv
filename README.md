@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 [![Award](https://img.shields.io/badge/award-Gold%20Prize-brightgreen.svg)]()
 [![Report](https://img.shields.io/badge/report-technical%20report-blueviolet.svg)](https://drive.google.com/file/d/1E9gbMNrSTL7WNWUvcyx_RmMLJP29DdQH/view?usp=sharing)
 [![Demo](https://img.shields.io/badge/demo-video-blue.svg)](https://drive.google.com/file/d/1GhtpFJ6wpb3meYf1uiJ_hL0hbMshxEvS/view?usp=sharing)
